@@ -1,6 +1,8 @@
 
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-[![](https://visitcount.itsvg.in/api?id=shahisrail&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="" style="background-color: black; width:100%;">
+  <img align="center" height="500px" width="1000px" src="https://i.postimg.cc/rF6DfWyM/385524903-675088574751983-1713078294146729374-n.png">
+</div>
+
 
 # 💫 About Me:
  🔭 I’m currently working on web Development
