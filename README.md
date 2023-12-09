@@ -1,5 +1,8 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: '20px;'">
+  <h3>About Me</h3>
+  <p>I'm a dedicated front-end developer passionate about creating interactive and user-friendly web experiences. I enjoy working with technologies like JavaScript, React, and MongoDB to craft engaging applications. My goal is to contribute innovative solutions that enhance user satisfaction and accessibility.</p>
+</div>
 <h1 align="center">Hi 👋, I'm Shah israil</h1>
 <h3 align="center">A front end developer developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
