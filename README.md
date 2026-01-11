@@ -82,12 +82,12 @@ const developer = {
 ### <img src="https://media.giphy.com/media/jnpKZixFJAf1aKRzo6/giphy.gif" width="45"> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahisrail&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahisrail&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahisrail&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahisrail&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9" alt="Top Languages" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahisrail&hide_border=true&theme=dark" alt="GitHub Streak" width="65%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahisrail&theme=tokyonight&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakNum=FFF&sideNums=FFF&currStreakLabel=61DAFB&sideLabels=FFF&dates=FFF" alt="GitHub Streak" width="65%"/>
 </div>
 
 ---
