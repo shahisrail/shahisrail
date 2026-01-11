@@ -1,8 +1,6 @@
-# Hi, I'm Israil Shah 👋
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-</div>
+
+# Hi, I'm Israil Shah 👋
 
 ### 🚀 Transforming ideas into elegant web experiences
 
@@ -19,14 +17,22 @@ const developer = {
 };
 ```
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahisrail134@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-israil-63b47426b/)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/shahisrail)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shah.israil.96592)
+
 ---
 
 ## 🔥 What I'm Building
 
-- 🌐 **Full Stack Web Applications** - From pixel-perfect UIs to robust backend systems
-- ⚡ **Performance-Optimized Solutions** - Fast, responsive, and scalable
-- 🎨 **Modern Frontend Experiences** - React, Next.js, and cutting-edge tools
-- 🔧 **RESTful APIs** - Building efficient backend services with Node.js & Express
+🌐 **Full Stack Web Applications** - From pixel-perfect UIs to robust backend systems
+
+⚡ **Performance-Optimized Solutions** - Fast, responsive, and scalable
+
+🎨 **Modern Frontend Experiences** - React, Next.js, and cutting-edge tools
+
+🔧 **RESTful APIs** - Building efficient backend services with Node.js & Express
 
 ---
 
@@ -58,51 +64,31 @@ const developer = {
 
 ---
 
-## 💬 Let's Connect
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
-
-<div align="left">
-  <a href="mailto:shahisrail134@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/shah-israil-63b47426b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.behance.net/shahisrail">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
-  </a>
-  <a href="https://facebook.com/shah.israil.96592">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-</div>
-
----
-
 ## 📈 My Coding Journey
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahisrail&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahisrail&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahisrail&theme=dark)](https://git.io/streak-stats)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahisrail&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahisrail&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahisrail)](https://git.io/streak-stats)
 
 ---
 
-## 🎯 Fun Facts
+## 🎯 About Me
 
-- 💻 I turn coffee into code
-- 🎨 Love designing clean, modern UIs
-- 🌱 Always exploring new technologies
-- 🤝 Open to collaborations and freelance projects
+💻 I turn coffee into code
+
+🎨 Love designing clean, modern UIs
+
+🌱 Always exploring new technologies
+
+🤝 Open to collaborations and freelance projects
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahisrail&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  <i>"Code is poetry written for machines to understand and humans to maintain."</i>
+[![Profile Views](https://komarev.com/ghpvc/?username=shahisrail&style=for-the-badge&color=blueviolet)](https://github.com/shahisrail)
+
+*"Code is poetry written for machines to understand and humans to maintain."*
+
 </div>
 
